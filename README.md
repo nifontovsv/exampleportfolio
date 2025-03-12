@@ -25,7 +25,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/nifontovsv/exampleportfolio.git
    ```
 2. Перейдите в папку с проектом и откройте файл index.html
 3. Bоспользуйтесь расширением Live Server для запуска проекта
